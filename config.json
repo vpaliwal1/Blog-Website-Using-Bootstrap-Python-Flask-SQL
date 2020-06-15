@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogapp",
+    "prod_uri": "mysql://root:@localhost/blogapp",
+    "user":"vaibav.paliwal@outlook.com",
+    "password":"Eric.1234",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"vaibav",
+    "admin_password": "paliwal",
+    "upload_location":"C:\\Users\\vibhu\\PycharmProjects\\untitled1\\flask_blog\\static"
+  }
+
+}
