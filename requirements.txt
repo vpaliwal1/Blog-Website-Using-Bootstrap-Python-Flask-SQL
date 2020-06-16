@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+werkzeug
+flask_mail
+json
+os
+math
+datetime
